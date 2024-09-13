@@ -1,6 +1,6 @@
 #include <stdio.h>
 main()
 {
-  printf("hello,word\n");
+  printf("hello,[ศรสวรรค์ จันทสุวรรณโณ]\n");
   }
   
